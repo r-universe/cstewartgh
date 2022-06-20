@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "QFASA"]
+	path = QFASA
+	url = https://github.com/cstewartgh/qfasa
+	shallow = true
+	registered = true
